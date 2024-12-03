@@ -62,7 +62,7 @@ I'm Kosala Nadun, a software developer passionate about back-end and full-stack 
 
 * Feel free to reach out to me on:
     * [LinkedIn](https://www.linkedin.com/in/kosala-nadun)
-    * [Email](kosala.nadun2@gmail.com)
+    * [Email](nadun.kosala97@gmail.com)
     * [Portfolio](https://kosala.pages.dev/)
 
 **This is my GitHub profile, where you'll find:**
