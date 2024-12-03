@@ -55,8 +55,6 @@ I'm Kosala Nadun, a software developer passionate about back-end and full-stack 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadun-kosala&layout=donut-vertical&theme=radical)](https://github.com/nadun-kosala/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nadun-kosala&repo=github-readme-stats)](https://github.com/nadun-kosala/github-readme-stats)
-
 **Let's connect!**
 <hr>
 
