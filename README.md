@@ -14,9 +14,7 @@ I'm Kosala Nadun, a software developer passionate about back-end and full-stack 
 <hr>
 
 **Programming Languages**
-   * JavaScript
-   * typeScript
-   * PHP
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 
 **Framework**
    * NestJS
